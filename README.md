@@ -6,4 +6,8 @@
 * rule
 * is enough
 
+*I should have numbered them like this*
+1. one
+2. rule
+3. is enough
 
