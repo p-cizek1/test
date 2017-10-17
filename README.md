@@ -1,4 +1,4 @@
-# test
+# README test
 *test example for creating a new repository*
 
 **You have to follow these rules**
